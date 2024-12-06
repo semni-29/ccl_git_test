@@ -1,1 +1,1 @@
-# CCL Github Maunal
+# CCL Github Manual
